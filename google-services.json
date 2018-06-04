@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "94708296678",
+    "firebase_url": "https://alphaim-d0e00.firebaseio.com",
+    "project_id": "alphaim-d0e00",
+    "storage_bucket": "alphaim-d0e00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94708296678:android:f656a6aa836dcae8",
+        "android_client_info": {
+          "package_name": "com.sadeny.alphaim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94708296678-ra5ges1oqretka4mkqksu586ee04o4ui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
